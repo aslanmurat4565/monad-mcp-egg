@@ -32,5 +32,5 @@ Due to the technical challenges mentioned above, we were unable to deploy the sm
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/monad-mcp-egg.git
+   git clone https://github.com/aslanmurat4565/monad-mcp-egg.git
    cd monad-mcp-egg
